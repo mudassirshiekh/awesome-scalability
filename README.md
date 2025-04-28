@@ -872,6 +872,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [Billing and Payment Platform at Grammarly](https://www.grammarly.com/blog/engineering/billing-and-payments-platform/)
 
 ## Interview
+## By Mudassir Alam
 * [Designing Large-Scale Systems](https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)
 	* [My Scaling Hero - Jeff Atwood (a dose of Endorphins before your interview, JK)](https://blog.codinghorror.com/my-scaling-hero/)
 	* [Software Engineering Advice from Building Large-Scale Distributed Systems - Jeff Dean](https://static.googleusercontent.com/media/research.google.com/en//people/jeff/stanford-295-talk.pdf)
